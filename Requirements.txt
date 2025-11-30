@@ -1,0 +1,10 @@
+txtDjango==5.1.3
+gunicorn==23.0.0
+whitenoise==6.8.2
+Pillow==11.0.0
+torch==2.1.0
+torchvision==0.16.0
+supabase==2.3.0
+python-dotenv==1.0.1
+stripe==7.8.0
+requests==2.32.3
